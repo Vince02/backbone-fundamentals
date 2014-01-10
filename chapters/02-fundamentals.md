@@ -26,7 +26,7 @@ The Your Locale step is where you can configure the date, time, and name format 
  1. Name Format : Select the format you want the concatenated name fields displayed in Maax’s list view and record view.
  1. Language : Select the language for your profile.
 
- ## User Information
+## User Information
 
 You can configure some of your personal settings via the User profile. User profile is where you can enter key information (i.e. name, email address, phone, time-zone) about yourself to be stored in your user profile. Please note that the information you provide on this step can be updated in your user preferences at a later time if desired. 
 
