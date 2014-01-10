@@ -32,8 +32,12 @@ You can configure some of your personal settings via the User profile. User prof
 
 The following options are available to configure your user profile:
 
-*First Name :* Enter your first name.
-*Last Name :* Enter your last name.
-*Email Address :* Enter your email address.
-*Office Phone :* Enter your office number.
-*Time-zone :* Enter your time-zone
+**First Name :** Enter your first name.
+
+**Last Name :** Enter your last name.
+
+**Email Address :** Enter your email address.
+
+**Office Phone :** Enter your office number.
+
+**Time-zone :** Enter your time-zone
