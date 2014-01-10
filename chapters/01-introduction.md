@@ -5,7 +5,7 @@ Welcome to MaaxFrame - a commercial, open source Customer Relationship Managemen
 Maax consists of interrelated records in modules such as Accounts, Contacts, Opportunities, Cases, Meetings, Emails, etc. and wraps your data in an intuitive user interface which helps make sense of these different elements of your business. Whatever your organization's focus - sales, marketing, support, or other ventures - Maax’s flexible modules bend to align with your business' models and practices. Manage your relationships from inception to fruition and beyond with Maax’s built-in modules and relationships as well as your custom modules and configurations available to MaaxFrame administrators.
 
 
-### Core Admin Features
+## Core Admin Features
 
  1. User, Password, group, and Role management to manipulate user access
  1. Email management to configure smtp servers for outgoing system email accounts and behaviors
@@ -14,7 +14,7 @@ Maax consists of interrelated records in modules such as Accounts, Contacts, Opp
  1.Module to tailor existing modules to your organization's needs by adding or modifying fields, relationships, and layouts
  1. Module Builder to create new, custom modules as needed to fully match your organization's processes
 
-### Setting Expectations
+## Setting Expectations
 
 The goal of this book is to create an authoritative and centralized repository of information that can help those developing real-world apps with Backbone. If you come across a section or topic which you think could be improved or expanded on, please feel free to submit an issue (or better yet, a pull-request) on the book's [GitHub site](https://github.com/addyosmani/backbone-fundamentals). It won't take long and you'll be helping other developers avoid the problems you ran into.
 
